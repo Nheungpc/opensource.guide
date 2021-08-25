@@ -32,7 +32,7 @@ redirect_from: /zh-cn/code-of-conduct/
 
 无论你们在哪里，请使用已有的行为守则。[贡献者盟约](https://www.contributor-covenant.org/)是一个被超过40,000个开源项目（包括Kubernetes, Rails和Swift）所使用的行为守则。
 
-[Django行为守则](https://www.djangoproject.com/conduct/)和[Citizen行为守则](http://citizencodeofconduct.org/)都是非常好的行为守则。
+[Django行为守则](https://www.djangoproject.com/conduct/)和[Citizen行为守则](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/)都是非常好的行为守则。
 
 请将CODE_OF_CONDUCT文件放在你们项目的根目录，并在README中附上其链接，这样对你们的社区是可见的。
 
@@ -41,7 +41,7 @@ redirect_from: /zh-cn/code-of-conduct/
 <aside markdown="1" class="pquote">
   一份行为守则没有（或者不能）执行会比没有行为守则更糟糕。它释放这样一个信息：行为守则或者尊重在你们的社区并不重要。
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
@@ -82,7 +82,7 @@ redirect_from: /zh-cn/code-of-conduct/
 
 ### 采取适当的行动
 
-当搜集和处理足够的信息后，你们需要决定做什么。当你们在考虑下一步的时候，请牢记你们的目的是营造一个安全，尊重和协作的社区氛围。不仅要考虑如何处理有问题的情况，还要考虑们的反应将如何影响你们社区的其他行为和期望。
+当搜集和处理足够的信息后，你们需要决定做什么。当你们在考虑下一步的时候，请牢记你们的目的是营造一个安全，尊重和协作的社区氛围。不仅要考虑如何处理有问题的情况，还要考虑你们的反应将如何影响你们社区的其他行为和期望。
 
 当有人报告违规时，处理它是你们的工作，而不是他们的。有时，透露报告者本人的信息会给他们的职业生涯，声誉和人生安全带来很大的风险。迫使报告者面对骚扰者会将他们置于妥协的位置。除非报告者有特别的要求，你们应该直接和有问题的人沟通。
 
